@@ -3,9 +3,13 @@
 My name is Sekar Ayu Wahyu Kusumaningtyas, i'm a Geophysics student at Gadjah Mada University. Currently i'm learning programming for my course.
 
 # Connect With me
-![Alt text][def] : Sekarayuwahyukusumaningtyas@mail.ugm.ac.id
+![<discord>](https://img.shields.io/badge/Discord-transparant?style=for-the-badge&logo=discord&logoColor=white) 
+![<Instagram>](https://img.shields.io/badge/Instagram-transparant?style=for-the-badge&logo=Instagram&logoColor=white) 
+![<Gmail>](https://img.shields.io/badge/Gmail-transparant?style=for-the-badge&logo=Gmail&logoColor=white) 
+![<Linkedin>](https://img.shields.io/badge/Linked_in-transparant?style=for-the-badge&logo=Linkedin&logoColor=white) 
 
-# Some tools that ihave used and learned
 
 
-[def]: https://github.com/Sekarayyw/dokum/blob/1823a0feadfebf915e0ccb867e50878648f0583e/discord.svg"title"
+Sekarayuwahyukusumaningtyas@mail.ugm.ac.id
+
+# Some tools that i have used and learned
