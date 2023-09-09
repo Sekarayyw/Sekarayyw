@@ -2,5 +2,10 @@
 
 My name is Sekar Ayu Wahyu Kusumaningtyas, i'm a Geophysics student at Gadjah Mada University. Currently i'm learning programming for my course.
 
-# Get To Know Me
-📧 : Sekarayuwahyukusumaningtyas@mail.ugm.ac.id 
+# Connect With me
+![Alt text][def] : Sekarayuwahyukusumaningtyas@mail.ugm.ac.id
+
+# Some tools that ihave used and learned
+
+
+[def]: https://github.com/Sekarayyw/dokum/blob/1823a0feadfebf915e0ccb867e50878648f0583e/discord.svg"title"
