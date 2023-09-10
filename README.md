@@ -13,5 +13,5 @@ My name is Sekar Ayu Wahyu Kusumaningtyas, i'm a Geophysics student at Gadjah Ma
 
 [![<Gmail>](https://img.shields.io/badge/Gmail-4db8ff?style=for-the-badge&logo=Gmail&logoColor=white)]()
 [![<Linkedin>](https://img.shields.io/badge/Linked_in-0099ff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sekar-ayu-wahyu-kusumaningtyas-1a64a4273/)
-[![<discord>](https://img.shields.io/badge/Discord-006bb3?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/[632140522525556776])
+[![<discord>](https://img.shields.io/badge/Discord-006bb3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/632140522525556776)
 [![<Instagram>](https://img.shields.io/badge/Instagram-003d66?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/skarru?igshid=OGQ5ZDc2ODk2ZA==)
