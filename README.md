@@ -1,5 +1,5 @@
 <div align = center> 
-<img src="https://raw.githubusercontent.com/Sekarayyw/dokum/main/covergithub.png"/>
+<img src="https://github.com/Sekarayyw/dokum/blob/main/covergithub1.png?raw=true"/>
 
 <div align = left> 
 
