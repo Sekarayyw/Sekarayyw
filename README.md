@@ -1,5 +1,5 @@
 <div align = center> 
-<img src="https://github.com/Sekarayyw/dokum/blob/main/covergithub1.png?raw=true"/>
+<img src="https://pbs.twimg.com/media/F1ud4AkaQAANRFE?format=jpg&name=medium"/>
 
 <div align = left> 
 
