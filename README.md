@@ -1,5 +1,6 @@
 <div align = center> 
-<img src="https://media.tenor.com/0g3SZVUVISUAAAAi/spongebob-squarepants-patrick.gif" width="150" height="150" />
+<img src="https://raw.githubusercontent.com/Sekarayyw/dokum/main/covergithub.png"/>
+
 <div align = left> 
 
 # Hello All ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
