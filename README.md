@@ -4,19 +4,15 @@
 
 My name is Sekar Ayu Wahyu Kusumaningtyas, i'm a Geophysics student at Gadjah Mada University. Currently i'm learning programming for my course.
 
+<div align = left> 
 
 # Get To Know Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="30" height="30" />
-
-<div align = left> 
 
 - 👩 Pronouns : She/Her
 - 🏫 Currently studying at Gadjah Mada University, majoring in Geophysics
 - 📍 Live in Yogyakarta, Indonesia
 - ✨ Have interest in design, programming
 - 📬 How to reach me : <Sekarayuwahyukusumaningtyas@mail.ugm.ac.id>
-
-
-<div align = center>
 
 # Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Busts in Silhouette" width="30" height="30" />
 
