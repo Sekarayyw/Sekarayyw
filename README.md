@@ -1,4 +1,4 @@
-<div align = center> <img src="https://media.tenor.com/Ig1FrLfB_-4AAAAi/spongebob-patrick-star.gif" width="200" height="200" />
+<img src="https://media.tenor.com/Ig1FrLfB_-4AAAAi/spongebob-patrick-star.gif" width="200" height="200" />
 
 # Hello All ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
 
