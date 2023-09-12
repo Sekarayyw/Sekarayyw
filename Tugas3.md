@@ -3,3 +3,5 @@
 
 # ini mau di up ke github
 #cekk apdet
+
+# fetch nya kakak
