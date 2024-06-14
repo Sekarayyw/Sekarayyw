@@ -1,5 +1,6 @@
 <img src="https://pbs.twimg.com/media/F1ud4AkaQAANRFE?format=jpg&name=medium"/>
 
+#Halah alay, dah stress skrg
 [![](https://visitcount.itsvg.in/api?id=Sekarayyw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 # Hello All ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
 
