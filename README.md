@@ -1,6 +1,5 @@
 <img src="https://pbs.twimg.com/media/F1ud4AkaQAANRFE?format=jpg&name=medium"/>
 
-# Halah alay, dah stress skrg
 [![](https://visitcount.itsvg.in/api?id=Sekarayyw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 # Halah alay, dah stress skrg
